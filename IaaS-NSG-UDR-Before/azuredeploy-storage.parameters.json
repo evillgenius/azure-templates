@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "stdStorageName": {
-      "value": "testvnetstoragestd"
+      "value": "evtestvnetstoragestd"
     },
     "stdStorageType": {
       "value": "Standard_LRS"
     },
     "prmStorageName": {
-      "value": "testvnetstorageprm"
+      "value": "evtestvnetstorageprm"
     },
     "prmStorageType": {
       "value": "Premium_LRS" 
